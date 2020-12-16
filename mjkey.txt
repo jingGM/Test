@@ -1,0 +1,20 @@
+MuJoCo Pro Trial license activation key, number 152925, type 6.
+
+Issued to Jing Lian <jliang92@terpmail.umd.edu>.
+
+Expires January 15, 2021.
+
+This file activates MuJoCo Pro on a single computer with id:
+LINUX_60nN10VM0S6yh0_x25CGBiS596PeI0112888K3T195
+
+Do not modify this file. Its entire content, including the
+plain text section, is used by the activation manager.
+
+d527a783b5b140e7d51c088189c1efbc1b9a83d9afba001b95c8d5a4cfcfb0c5
+365430047a183751e09012c4a7342a433d0261248f31768310a01835330fcf1b
+192e2802fd56539c0a2a1121484c69c51ae91e7582d9940131289303ada6b911
+defd077dfa4600d7d3f9dd967fd9a4316fa3748b8f0073fa0a63e34ab3282fff
+0f2218f158753b5b308d0be2e1afab7464280ab696fefd65d5e72f6e1d2772b4
+e0091752614e8532f1c7614d4cf9413584b963df680f1c6efa8e07056eb643f8
+765d565c11fcf3505194f4529be601ad9425de9456c4f07e0ca5c1b79a9b64cd
+baabf082b8adbdf68db3a043569658a8b515dc12aa87d1b90bbecf6c7db525bb
